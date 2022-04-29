@@ -1,0 +1,1 @@
+int** create_scoArr(int& scoNum, int& gradeNum);

@@ -1,0 +1,1 @@
+student** create_studArr(int& studNum);
